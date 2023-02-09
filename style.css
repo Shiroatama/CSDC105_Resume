@@ -1,0 +1,53 @@
+header{
+    background-color:#f7dc6F;
+}
+img[src="gab.jpg"]{
+    
+    float: left;
+    max-width:13%;
+    border: 3px solid black;
+    border-radius: 20px;
+    background: "yellow.jpg";
+    background-position: right;
+    margin: 0px 20px 0px 0px;
+    
+}
+
+h1{
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+}
+h3,th{
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+}
+p{
+    
+    font-family:Garamond;
+    font-size:18px;
+    
+}
+ul,a,td{
+    font-family:Garamond;
+    font-size:17px;
+    
+}
+ol{
+    
+    padding: 30px;
+    list-style-type: none;
+    font-family:Garamond;
+    font-size:20px;
+}
+body{
+    margin:20px;
+    background-color:#f5f0e1;
+}
+hr{
+    height:3px;
+    background-color:black;
+}
+a{
+    color:#ffcc00;
+    padding:10px;
+}
